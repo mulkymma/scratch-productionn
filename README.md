@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Scratch Production
 
 Exact recreation of [scratch-production.vercel.app](https://scratch-production.vercel.app) — a creative media studio portfolio site.
@@ -38,6 +37,3 @@ For a zero-config static deploy, upload the contents of the `public` folder.
 - Design matched to the v0.app / Next.js original
 
 © Scratch Production 2026
-=======
-# scratch-productionn
->>>>>>> 497dba93ed059bbb2137f86639cbdc8e61e37446
