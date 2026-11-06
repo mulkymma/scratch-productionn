@@ -1,0 +1,9 @@
+{
+  "name": "scratch-production",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve public -p 3000",
+    "start": "npx serve public -p 3000"
+  }
+}
